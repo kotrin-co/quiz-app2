@@ -8,6 +8,6 @@
 }
 
 .button:active{
-    background-color:#0ff;
+    background-color:#f0f;
     transition-duration:300ms;
 }
