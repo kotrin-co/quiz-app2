@@ -7,7 +7,6 @@
     margin:10px 0;
 }
 
-.button:active{
+.button:hover{
     background-color:#f0f;
-    transition-duration:300ms;
 }

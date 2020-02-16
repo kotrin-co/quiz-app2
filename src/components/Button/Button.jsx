@@ -9,7 +9,7 @@ const Button = (props) =>{
     }
 
     return(
-        <div className="button" onClick={onClickHandler}>
+        <div className="button" onClick={onClickHandler} onTouchStart="">
             {props.children}
         </div>
     )
